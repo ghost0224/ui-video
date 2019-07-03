@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<tt xmlns='http://www.w3.org/ns/ttml' xml:lang='en' >  
+<body>  
+<div>  
+  
+<p begin="00:00:00.878" end="00:00:02.334" >测试中文字幕!</p>  
+<p begin="00:00:02.608" end="00:00:04.296" >Butterfly.</p>  
+<p begin="00:00:05.608" end="00:00:08.296" >大王派我来巡山.</p>  
+</div>  
+  
+</body>  
+</tt>  
