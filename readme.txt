@@ -17,3 +17,5 @@
 17.Bootstrap is used to make the player responsiveDone/Not Done18New Feature other than documented			Done
 18.show subtitles		Done
 19.each video in the playlist may start the playback from the same time where user left it previously.		Done
+
+Github: https://github.com/ghost0224/ui-video.git
